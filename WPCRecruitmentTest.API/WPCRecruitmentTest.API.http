@@ -1,0 +1,6 @@
+@WPCRecruitmentTest.API_HostAddress = http://localhost:5268
+
+GET {{WPCRecruitmentTest.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
